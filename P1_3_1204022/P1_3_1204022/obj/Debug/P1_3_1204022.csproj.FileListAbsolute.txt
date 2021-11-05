@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2015\Projects\P1_3_1204022\P1_3_1204022\bin\Debug\P1_3_1204022.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\P1_3_1204022\P1_3_1204022\bin\Debug\P1_3_1204022.exe
+c:\users\hp\documents\visual studio 2015\Projects\P1_3_1204022\P1_3_1204022\bin\Debug\P1_3_1204022.pdb
+c:\users\hp\documents\visual studio 2015\Projects\P1_3_1204022\P1_3_1204022\obj\Debug\P1_3_1204022.exe
+c:\users\hp\documents\visual studio 2015\Projects\P1_3_1204022\P1_3_1204022\obj\Debug\P1_3_1204022.pdb
+C:\Users\HP\documents\visual studio 2015\Projects\P1_3_1204022\P1_3_1204022\obj\Debug\P1_3_1204022.csprojResolveAssemblyReference.cache
